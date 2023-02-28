@@ -23,19 +23,11 @@ library(lubridate)    # manipulation des dates
 library(tidyverse)    # méta-package d'Hadley Wickham
 ```
 
-
-
-!!! Info "getwd()"
-
     `getwd()` est une fonction qui permet de récupérer le chemin absolu du répertoire de travail actuel.
 
 ```r linenums="7"
 getwd()
 ```
-
-??? success "Output"
-
-    [1] "C:/Users/abdel/Documents"
 
 ## **Importer la data**
 
