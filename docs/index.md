@@ -7,13 +7,11 @@ hide:
 ## **Membres du groupe**
 
 !!! Info "Membres du groupe"
-    - [Hermann Agossou](https://github.com/hermann-web/)
     - [Abdellatif BELMADY](https://github.com/Abdellatif-belmady/)
     - [Fatine BOUSSATTINE](https://github.com/FatineDev/)
     - [Hamza HAJJINI](https://github.com/HAJJINIHamza/)
-    - [Salma KHMASSI](https://github.com/KHSalma04/)
-    - [Mohamed Lamine BAMBA](https://github.com/limto18/)
     - [Hamza Dribine](https://github.com/hamza-dri/)
+    - [Mohamed Ait Hajjoub](https://github.com/)
 
 ## **Importer les packages**
 
